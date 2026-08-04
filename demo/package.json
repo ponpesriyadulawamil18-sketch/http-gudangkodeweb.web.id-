@@ -1,0 +1,17 @@
+{
+  "name": "glowtravel",
+  "version": "1.0.0",
+  "description": "GlowTravel Premium Ticket & Hotel Booking Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y http-server -p 3000"
+  },
+  "keywords": [
+    "travel",
+    "ticketing",
+    "premium",
+    "glow"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
